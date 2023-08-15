@@ -1,3 +1,2 @@
 # SentimentScraper
-A pipeline that joins the BeautifulSoup webscraper and Flair sentiment classifier; it computes the correlation between what is said about a stock, and the stock's performance that day
-
+A pipeline that joins the BeautifulSoup webscraper and Flair sentiment classifier. The goal is to get an idea of the Internet's positive or negative sentiment on any topic or question.
